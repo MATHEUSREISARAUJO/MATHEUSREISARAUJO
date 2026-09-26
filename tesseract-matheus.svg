@@ -1,0 +1,56 @@
+<svg width="600" height="180" viewBox="0 0 600 180"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="600" height="180" fill="#000000"/>
+
+  <!-- TESSERACT -->
+
+  <g fill="none"
+     stroke="#B89B5E"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Cubo externo -->
+    <path d="M55 55 L115 25 L175 55 L175 125 L115 155 L55 125 Z"/>
+
+    <!-- Cubo interno -->
+    <path d="M85 70 L115 55 L145 70 L145 110 L115 125 L85 110 Z"/>
+
+    <!-- Conexões externas -->
+    <path d="M55 55 L85 70"/>
+    <path d="M115 25 L115 55"/>
+    <path d="M175 55 L145 70"/>
+    <path d="M175 125 L145 110"/>
+    <path d="M115 155 L115 125"/>
+    <path d="M55 125 L85 110"/>
+
+    <!-- Estrutura interna -->
+    <path d="M115 55 L115 95"/>
+    <path d="M85 70 L85 110"/>
+    <path d="M145 70 L145 110"/>
+    <path d="M115 95 L85 110"/>
+    <path d="M115 95 L145 110"/>
+  </g>
+
+  <!-- NOME -->
+
+  <text x="220"
+        y="88"
+        fill="#F0E8D5"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="25"
+        letter-spacing="3">
+    MATHEUS ARAUJO
+  </text>
+
+  <text x="220"
+        y="115"
+        fill="#B89B5E"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="10"
+        letter-spacing="2">
+    TECHNOLOGY EXPLORATION
+  </text>
+
+</svg>
