@@ -1,5 +1,15 @@
-# Matheus Araujo
-> Construindo para entender como sistemas funcionam.
+<div align="center">
+ 
+ <img src="./tesseract-matheus.svg" width="180>
+  
+## Matheus Araujo
+
+TECHNOLOGY EXPLORATION // 001
+
+ Construindo para entender como sistemas funcionam.
+
+</div>
+
 -------------------------------------------------------
  ## Explorando
 > Áreas que estou explorando no momento:
