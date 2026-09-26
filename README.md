@@ -84,35 +84,13 @@
 ### <img src="assets/hex.svg" width="18" /> PRODUTOS
 >Projetos que ultrapassaram a fase de experimento e podem se transformar em algo útil para pessoas.
 >
->A ideia é explorar não apenas o que pode ser construído, mas também o que pode ser feito com aquilo. 
+ > A ideia é explorar não apenas o que pode ser construído, mas também o que pode ser feito com aquilo. 
 
 ### <img src="assets/hex.svg" width="18" /> MÉTODO
 
-```text
-┌──────────────────┐
-│   CURIOSIDADE    │
-└────────┬─────────┘
-         ↓
-┌──────────────────┐
-│   INVESTIGAÇÃO   │
-└────────┬─────────┘
-         ↓
-┌──────────────────┐
-│    CONSTRUÇÃO    │
-└────────┬─────────┘
-         ↓
-┌──────────────────┐
-│      TESTES      │
-└────────┬─────────┘
-         ↓
-┌──────────────────┐
-│   ENTENDIMENTO   │
-└────────┬─────────┘
-         ↓
-┌──────────────────┐
-│ NOVA CURIOSIDADE │
-└──────────────────┘
-```
+<p align="center">
+  <img src="assets/diagrams/metodo.svg" width="240" />
+</p>
 
 >Estou aqui para descobrir até onde essas perguntas podem me levar.
 
