@@ -21,13 +21,13 @@
 </p>
 
 <p>
-  <img src="./assets/icons/python.svg" width="78" alt="Python">
+  <img src="./assets/icons/python.svg" width="60" alt="Python">
   &nbsp;&nbsp;
-  <img src="./assets/icons/sql.svg" width="78" alt="SQL">
+  <img src="./assets/icons/sql.svg" width="60" alt="SQL">
   &nbsp;&nbsp;
-  <img src="./assets/icons/javascript.svg" width="78" alt="JavaScript">
+  <img src="./assets/icons/javascript.svg" width="60" alt="JavaScript">
   &nbsp;&nbsp;
-  <img src="./assets/icons/typescript.svg" width="78" alt="TypeScript">
+  <img src="./assets/icons/typescript.svg" width="60" alt="TypeScript">
 </p>
 
 <br>
@@ -37,13 +37,13 @@
 </p>
 
 <p>
-  <img src="./assets/icons/c.svg" width="78" alt="C">
+  <img src="./assets/icons/c.svg" width="60" alt="C">
   &nbsp;&nbsp;
-  <img src="./assets/icons/cpp.svg" width="78" alt="C++">
+  <img src="./assets/icons/cpp.svg" width="60" alt="C++">
   &nbsp;&nbsp;
-  <img src="./assets/icons/rust.svg" width="78" alt="Rust">
+  <img src="./assets/icons/rust.svg" width="60" alt="Rust">
   &nbsp;&nbsp;
-  <img src="./assets/icons/go.svg" width="78" alt="Go">
+  <img src="./assets/icons/go.svg" width="60" alt="Go">
 </p>
 
 </div>
@@ -61,11 +61,11 @@
 </p>
 
 <p>
-  <img src="./assent/icons/postgresql.svg" width="78" alt="PostgreSQL">
+  <img src="./assent/icons/postgresql.svg" width="60" alt="PostgreSQL">
   &nbsp;&nbsp;
-  <img src="./assent/icons/claude-code.svg" width="78" alt="Claude Code">
+  <img src="./assent/icons/claude-code.svg" width="60" alt="Claude Code">
   &nbsp;&nbsp;
-  <img src="./assent/icons/gpt.svg" width="78" alt="GPT">
+  <img src="./assent/icons/gpt.svg" width="60" alt="GPT">
 </p>
 
 </div>
