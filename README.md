@@ -10,9 +10,29 @@
 </div>
 
 ---
-<img src="./assets/icons/python.svg"
-     width="90"
-     alt="Python">
+<section align="center">
+
+  <h2>LANGUAGES</h2>
+
+  <p><strong>CURRENT</strong></p>
+
+  <p>
+    <img src="./assets/icons/python.svg" width="90" alt="Python">
+    <img src="./assets/icons/sql.svg" width="90" alt="SQL">
+    <img src="./assets/icons/javascript.svg" width="90" alt="JavaScript">
+    <img src="./assets/icons/typescript.svg" width="90" alt="TypeScript">
+  </p>
+
+  <p><strong>NEXT</strong></p>
+
+  <p>
+    <img src="./assets/icons/c.svg" width="90" alt="C">
+    <img src="./assets/icons/cpp.svg" width="90" alt="C++">
+    <img src="./assets/icons/rust.svg" width="90" alt="Rust">
+    <img src="./assets/icons/go.svg" width="90" alt="Go">
+  </p>
+
+</section>
 
 ---
 
