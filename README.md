@@ -39,7 +39,8 @@ TECHNOLOGY EXPLORATION // 001
 >
 >A ideia é explorar não apenas o que pode ser construído, mas também o que pode ser feito com aquilo. 
 
-## // COMO EU APRENDO
+## // MÉTODO
+
 
 >
       uma pergunta
