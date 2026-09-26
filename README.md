@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="./tesseract-matheus.svg" width="100">
+<img src="tesseract.svg" width="100">
   
 <h2>Matheus Araujo</h2>
 
@@ -49,21 +49,33 @@ TECHNOLOGY EXPLORATION
 
 ## MÉTODO
 
+```text
+┌──────────────────┐
+│   CURIOSIDADE    │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│   INVESTIGAÇÃO   │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│    CONSTRUÇÃO    │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│      TESTES      │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│   ENTENDIMENTO   │
+└────────┬─────────┘
+         ↓
+┌──────────────────┐
+│ NOVA CURIOSIDADE │
+└──────────────────┘
+```
 
->
-      uma pergunta
-             ↓
-        investigação
-             ↓
-         construção
-             ↓
-           testes
-             ↓
-        entendimento
-             ↓
-      uma nova pergunta
-> 
-> Estou aqui para descobrir até onde essas perguntas podem me levar.
+>Estou aqui para descobrir até onde essas perguntas podem me levar.
 
-## AGORA
-> Atualmente explorando novas ideias, construído experimentos e tentando entender sistemas cada vez mais complexos. 
+ ## AGORA
+>Atualmente explorando novas ideias, construído experimentos e tentando entender sistemas cada vez mais complexos. 
