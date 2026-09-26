@@ -8,7 +8,8 @@
 
 </div>
 
----
+<img src="assets/diagrams/divider.svg" width="100%" />
+
 <!-- ==================== LANGUAGES ==================== -->
 
 <div align="center">
@@ -57,7 +58,7 @@
 
 </div>
 
----
+<img src="assets/diagrams/divider.svg" width="100%" />
 
 ## FRONTEIRAS ATUAIS
  
