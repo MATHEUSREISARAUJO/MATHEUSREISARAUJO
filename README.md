@@ -1,10 +1,8 @@
 <div align="center">
-
-<img src="./tesseract-matheus-montagem-correta.gif" width="600">
-
+<img src="./tesseract-matheus.svg" width="600">
 </div>
 
-TECHNOLOGY EXPLORATION 
+   TECHNOLOGY EXPLORATION 
 
  Construindo para entender como sistemas funcionam.
  
