@@ -20,4 +20,8 @@
 > Projetos em que uma ideia começa a se transformar em um sistema.
 >
 > Arquitetura, implementação, testes, integração e tudo que for necessário pra fazer uma ideia funcionar de verdade.
-> 
+
+## Produtos 
+>Projetos que ultrapassaram a fase de experimento e podem se transformar em algo útil para pessoas.
+>
+>A ideia é explorar não apenas o que pode ser construído, mas também o que pode ser feito com aquilo. 
