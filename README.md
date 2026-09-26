@@ -63,7 +63,7 @@
 <p>
   <img src="./assets/icons/postgresql.svg" width="78" alt="PostgreSQL">
   &nbsp;&nbsp;
-  <img src="./assets/icons/claude-code.svg" width="78" alt="Claude Code">
+  <img src="./assent/icons/claude-code.svg" width="78" alt="Claude Code">
   &nbsp;&nbsp;
   <img src="./assets/icons/gpt.svg" width="78" alt="GPT">
 </p>
