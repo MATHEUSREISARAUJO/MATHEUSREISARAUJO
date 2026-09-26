@@ -10,7 +10,9 @@
 </div>
 
 ---
-
+<img src="./assets/icons/python.svg"
+     width="90"
+     alt="Python">
 
 ---
 
