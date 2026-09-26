@@ -48,11 +48,14 @@
 </p>
 
 <p>
+   
   <img src="./assent/icons/postgresql.svg" width="60" alt="PostgreSQL">
   &nbsp;&nbsp;
   <img src="./assent/icons/claude-code.svg" width="60" alt="Claude Code">
   &nbsp;&nbsp;
-  <img src="./assent/icons/gpt.svg" width="60" alt="GPT">
+   <img src="./assets/icons/docker.svg" width="110" alt="Docker">
+  &nbsp;&nbsp;
+
 </p>
 
 </div>
