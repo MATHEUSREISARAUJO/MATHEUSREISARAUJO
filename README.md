@@ -13,6 +13,8 @@ TECHNOLOGY EXPLORATION
 </div>
 
 ---
+<div align="center">
+
 <table>
 <tr>
 <td width="200" align="center" valign="middle">
@@ -33,8 +35,13 @@ Entender como funciona através da construção.
 
 </td>
 </tr>
-</table>-------------------------------------------------------
- ## FRONTEIRAS ATUAIS
+</table>
+
+</div>
+
+-------------------------------------------------------
+
+## FRONTEIRAS ATUAIS
  
 Áreas que estou explorando no momento:
 
