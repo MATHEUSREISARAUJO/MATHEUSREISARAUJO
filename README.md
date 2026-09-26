@@ -23,8 +23,6 @@
 <p>
   <img src="./assets/icons/python.svg" width="60" alt="Python">
   &nbsp;&nbsp;
-  <img src="./assets/icons/sql.svg" width="60" alt="SQL">
-  &nbsp;&nbsp;
   <img src="./assets/icons/javascript.svg" width="60" alt="JavaScript">
   &nbsp;&nbsp;
   <img src="./assets/icons/typescript.svg" width="60" alt="TypeScript">
