@@ -7,8 +7,17 @@
 TECHNOLOGY EXPLORATION // 001
 
  Construindo para entender como sistemas funcionam.
+ 
+
 
 </div>
+
+---
+
+> **TESSERACT // SISTEMA DESCONHECIDO**
+>
+> Um objeto para investigar.  
+> Entender como funciona através da construção.
 
 -------------------------------------------------------
  ## // FRONTEIRAS ATUAIS
