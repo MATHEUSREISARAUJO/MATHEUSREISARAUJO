@@ -31,18 +31,9 @@
 <br>
 
 <p>
-  <sub>NEXT</sub>
+
 </p>
 
-<p>
-  <img src="./assets/icons/c.svg" width="60" alt="C">
-  &nbsp;&nbsp;
-  <img src="./assets/icons/cpp.svg" width="60" alt="C++">
-  &nbsp;&nbsp;
-  <img src="./assets/icons/rust.svg" width="60" alt="Rust">
-  &nbsp;&nbsp;
-  <img src="./assets/icons/go.svg" width="60" alt="Go">
-</p>
 
 </div>
 
