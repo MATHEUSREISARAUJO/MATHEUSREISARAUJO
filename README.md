@@ -66,7 +66,7 @@
 
 `AI` · `AGENTES` · `ROBÓTICA` · `AUTOMAÇÃO` · `APLICATIVOS` · `BIOTECNOLOGIA` 
 
-### <img src="icons/hex.svg" width="18" /> LABORATÓRIO
+### <img src="assets/hex.svg" width="18" /> LABORATÓRIO
 
 > Experimentos, prototipos e ideias que estou investigando.
 >
