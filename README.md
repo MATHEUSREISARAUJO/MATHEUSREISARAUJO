@@ -1,8 +1,8 @@
 <div align="center">
- 
-<img src="tesseract.svg" width="100">
-  
-<h2>Matheus Araujo</h2>
+
+<img src="./tesseract-matheus-montagem-correta.gif" width="600">
+
+</div>
 
 TECHNOLOGY EXPLORATION 
 
