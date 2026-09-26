@@ -42,3 +42,6 @@
       uma nova pergunta
 > 
 > Estou aqui para descobrir até onde essas perguntas podem me levar.
+
+## Agora 
+> Atualmente explorando novas ideias, construído experimentos e tentando entender >sistemas cada vez mais complexos. 
