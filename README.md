@@ -2,8 +2,7 @@
 <img src="./tesseract-matheus.svg" width="830">
 </div>
 
-   TECHNOLOGY EXPLORATION 
-
+   
  Construindo para entender como sistemas funcionam.
  
 
