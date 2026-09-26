@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./tesseract-matheus.svg" width="600">
+<img src="./tesseract-matheus.svg" width="830">
 </div>
 
    TECHNOLOGY EXPLORATION 
