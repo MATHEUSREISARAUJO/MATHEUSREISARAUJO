@@ -1,1 +1,6 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="28" fill="#050607"/>
+  <path d="M128 55l10 13 16-5 5 16 17 2-2 17 16 8-8 15 13 11-13 11 8 15-16 8 2 17-17 2-5 16-16-5-10 13-10-13-16 5-5-16-17-2 2-17-16-8 8-15-13-11 13-11-8-15 16-8-2-17 17-2 5-16 16 5Z" fill="none" stroke="#d8b45a" stroke-width="7"/>
+  <text x="128" y="151" text-anchor="middle" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#d8b45a">R</text>
+</svg>
