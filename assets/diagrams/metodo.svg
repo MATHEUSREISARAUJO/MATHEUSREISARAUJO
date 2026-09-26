@@ -7,7 +7,7 @@
 
   <!-- CURIOSIDADE -->
   <rect x="10" y="10" width="200" height="40" class="box"/>
-  <text x="30" y="35" class="txt">CURIOSIDADE</text>
+  <text x="30" y="35" class="txt">UMA PERGUNTA</text>
   <line x1="110" y1="50" x2="110" y2="80" class="arrow"/>
   <polygon points="105,78 110,90 115,78" fill="#C9A961"/>
 
@@ -37,5 +37,5 @@
 
   <!-- NOVA CURIOSIDADE -->
   <rect x="10" y="410" width="200" height="40" class="box"/>
-  <text x="15" y="435" class="txt">NOVA CURIOSIDADE</text>
+  <text x="15" y="435" class="txt">UMA NOVA PERGUNTA</text>
 </svg>
