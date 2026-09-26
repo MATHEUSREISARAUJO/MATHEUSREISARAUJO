@@ -10,30 +10,65 @@
 </div>
 
 ---
-<section align="center">
+<!-- ==================== LANGUAGES ==================== -->
 
-  <h2>LANGUAGES</h2>
+<div align="center">
 
-  <p><strong>CURRENT</strong></p>
+<h2>LANGUAGES</h2>
 
-  <p>
-    <img src="./assets/icons/python.svg" width="90" alt="Python">
-    <img src="./assets/icons/sql.svg" width="90" alt="SQL">
-    <img src="./assets/icons/javascript.svg" width="90" alt="JavaScript">
-    <img src="./assets/icons/typescript.svg" width="90" alt="TypeScript">
-  </p>
+<p>
+  <sub>CURRENT</sub>
+</p>
 
-  <p><strong>NEXT</strong></p>
+<p>
+  <img src="./assets/icons/python.svg" width="78" alt="Python">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/sql.svg" width="78" alt="SQL">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/javascript.svg" width="78" alt="JavaScript">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/typescript.svg" width="78" alt="TypeScript">
+</p>
 
-  <p>
-    <img src="./assets/icons/c.svg" width="90" alt="C">
-    <img src="./assets/icons/cpp.svg" width="90" alt="C++">
-    <img src="./assets/icons/rust.svg" width="90" alt="Rust">
-    <img src="./assets/icons/go.svg" width="90" alt="Go">
-  </p>
+<br>
 
-</section>
+<p>
+  <sub>NEXT</sub>
+</p>
 
+<p>
+  <img src="./assets/icons/c.svg" width="78" alt="C">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/cpp.svg" width="78" alt="C++">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/rust.svg" width="78" alt="Rust">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/go.svg" width="78" alt="Go">
+</p>
+
+</div>
+
+<br>
+
+<!-- ==================== TOOLS ==================== -->
+
+<div align="center">
+
+<h2>TOOLS</h2>
+
+<p>
+  <sub>CURRENT</sub>
+</p>
+
+<p>
+  <img src="./assets/icons/postgresql.svg" width="78" alt="PostgreSQL">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/claude-code.svg" width="78" alt="Claude Code">
+  &nbsp;&nbsp;
+  <img src="./assets/icons/gpt.svg" width="78" alt="GPT">
+</p>
+
+</div>
 ---
 
 ## FRONTEIRAS ATUAIS
