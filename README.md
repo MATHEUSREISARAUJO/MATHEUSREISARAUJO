@@ -1,10 +1,10 @@
 <div align="center">
  
-<img src="./tesseract-matheus.svg" width="140">
+<img src="./tesseract-matheus.svg" width="100">
   
 <h2>Matheus Araujo</h2>
 
-TECHNOLOGY EXPLORATION // 001
+TECHNOLOGY EXPLORATION 
 
  Construindo para entender como sistemas funcionam.
  
@@ -13,42 +13,54 @@ TECHNOLOGY EXPLORATION // 001
 </div>
 
 ---
+<table>
+<tr>
+<td width="200" align="center" valign="middle">
 
-> **TESSERACT // SISTEMA DESCONHECIDO**
->
-> Um objeto para investigar.  
-> Entender como funciona através da construção.
+<img src="./tesseract-matheus.svg" width="140">
 
--------------------------------------------------------
- ## // FRONTEIRAS ATUAIS
+</td>
+<td valign="middle">
+
+<h3>TESSERACT</h3>
+
+<code>SISTEMA DESCONHECIDO</code>
+
+<p>
+Um objeto para investigar.<br>
+Entender como funciona através da construção.
+</p>
+
+</td>
+</tr>
+</table>-------------------------------------------------------
+ ## FRONTEIRAS ATUAIS
  
-> Áreas que estou explorando no momento:
-> 
-> - Inteligência Artificial
-> - Agentes
-> - Robotica
-> - Automação
-> - Aplicativos 
+Áreas que estou explorando no momento:
 
-## // LABORATÓRIO 
+`AI` · `AGENTES` · `ROBÓTICA` · `AUTOMAÇÃO` · `APLICATIVOS` · `BIOTECNOLOGIA` 
+
+## LABORATÓRIO 
 
 > Experimentos, prototipos e ideias que estou investigando.
 >
 > Projetos pequenos também fazem parte do processo.
 >
-> Aqui, o objetivo é descobrir como as coisas funcionam através da construção
+> Aqui, o objetivo é descobrir como as coisas funcionam através da construção.
 
- ## // ENGENHARIA
+
+
+ ## ENGENHARIA
 > Projetos em que uma ideia começa a se transformar em um sistema.
 >
 > Arquitetura, implementação, testes, integração e tudo que for necessário pra fazer uma ideia funcionar de verdade.
 
-## // PRODUTOS
+## PRODUTOS
 >Projetos que ultrapassaram a fase de experimento e podem se transformar em algo útil para pessoas.
 >
 >A ideia é explorar não apenas o que pode ser construído, mas também o que pode ser feito com aquilo. 
 
-## // MÉTODO
+## MÉTODO
 
 
 >
@@ -66,5 +78,5 @@ TECHNOLOGY EXPLORATION // 001
 > 
 > Estou aqui para descobrir até onde essas perguntas podem me levar.
 
-## // AGORA
+## AGORA
 > Atualmente explorando novas ideias, construído experimentos e tentando entender sistemas cada vez mais complexos. 
