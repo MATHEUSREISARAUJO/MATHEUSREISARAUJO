@@ -15,27 +15,7 @@ TECHNOLOGY EXPLORATION
 ---
 <div align="center">
 
-<table>
-<tr>
-<td width="200" align="center" valign="middle">
-
-<img src="./tesseract-matheus.svg" width="140">
-
-</td>
-<td valign="middle">
-
-<h3>TESSERACT</h3>
-
-<code>SISTEMA DESCONHECIDO</code>
-
-<p>
-Um objeto para investigar.<br>
-Entender como funciona através da construção.
-</p>
-
-</td>
-</tr>
-</table>
+<img src="./tesseract-panel.svg" width="900">
 
 </div>
 
