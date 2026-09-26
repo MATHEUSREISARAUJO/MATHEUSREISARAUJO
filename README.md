@@ -17,7 +17,6 @@
 <h2>LANGUAGES</h2>
 
 <p>
-  <sub>CURRENT</sub>
 </p>
 
 <p>
@@ -46,7 +45,6 @@
 <h2>TOOLS</h2>
 
 <p>
-  <sub>CURRENT</sub>
 </p>
 
 <p>
