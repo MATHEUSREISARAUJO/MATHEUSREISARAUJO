@@ -1,0 +1,48 @@
+<svg width="900" height="260" viewBox="0 0 900 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="260" fill="#050505"/>
+
+  <g transform="translate(90 45)" stroke="#B89B5E" fill="none">
+    <path d="M0 45 L70 0 L140 45 L70 90 Z"/>
+    <path d="M35 67 L105 22 L175 67 L105 112 Z"/>
+    <path d="M0 45 L35 67"/>
+    <path d="M70 0 L105 22"/>
+    <path d="M140 45 L175 67"/>
+    <path d="M70 90 L105 112"/>
+  </g>
+
+  <line x1="330" y1="45" x2="330" y2="215"
+        stroke="#B89B5E" stroke-opacity="0.35"/>
+
+  <text x="380" y="92"
+        fill="#F0E9DA"
+        font-family="Georgia, serif"
+        font-size="26"
+        letter-spacing="3">
+    TESSERACT
+  </text>
+
+  <text x="380" y="125"
+        fill="#B89B5E"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2">
+    SISTEMA DESCONHECIDO
+  </text>
+
+  <text x="380" y="165"
+        fill="#C8C1B5"
+        font-family="Georgia, serif"
+        font-size="16">
+    Um objeto para investigar.
+  </text>
+
+  <text x="380" y="192"
+        fill="#C8C1B5"
+        font-family="Georgia, serif"
+        font-size="16">
+    Entender como funciona através da construção.
+  </text>
+
+</svg>
