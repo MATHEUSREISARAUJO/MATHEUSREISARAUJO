@@ -2,7 +2,7 @@
  
 <img src="./tesseract-matheus.svg" width="140">
   
-## Matheus Araujo
+<h2>Matheus Araujo</h2>
 
 TECHNOLOGY EXPLORATION // 001
 
