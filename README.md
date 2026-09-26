@@ -10,13 +10,9 @@
 </div>
 
 ---
-<div align="center">
 
-<img src="./tesseract-panel.svg" width="900">
 
-</div>
-
--------------------------------------------------------
+---
 
 ## FRONTEIRAS ATUAIS
  
