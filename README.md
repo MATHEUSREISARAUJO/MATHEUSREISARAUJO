@@ -65,7 +65,7 @@
   &nbsp;&nbsp;
   <img src="./assent/icons/claude-code.svg" width="78" alt="Claude Code">
   &nbsp;&nbsp;
-  <img src="./assets/icons/gpt.svg" width="78" alt="GPT">
+  <img src="./assent/icons/gpt.svg" width="78" alt="GPT">
 </p>
 
 </div>
