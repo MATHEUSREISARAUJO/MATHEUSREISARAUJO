@@ -1,6 +1,6 @@
 <div align="center">
  
- <img src="./tesseract-matheus.svg" width="180>
+<img src="./tesseract-matheus.svg" width="140">
   
 ## Matheus Araujo
 
