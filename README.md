@@ -1,9 +1,8 @@
 <div align="center"> 
-<img src="./tesseract-matheus.svg" width="830">
+<img src="./tesseract-matheus.svg" width="900">
 </div>
    
-   Construindo para entender como sistemas funcionam.     
-
+<p align="right"><i># construindo para entender como sistemas funcionam.</i>
 
 </div>
 
